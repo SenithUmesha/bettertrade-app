@@ -26,6 +26,10 @@
   <code>Flutter</code> · <code>Riverpod</code> · <code>Firebase</code> · <code>Cloudflare Workers</code> · <code>R2</code> · <code>RevenueCat</code>
 </p>
 
+<p align="center">
+  <a href="https://github.com/SenithUmesha/bettertrade-app/actions/workflows/docs-check.yml"><img src="https://github.com/SenithUmesha/bettertrade-app/actions/workflows/docs-check.yml/badge.svg" alt="Docs integrity" /></a>
+</p>
+
 ---
 
 ## this started smaller
